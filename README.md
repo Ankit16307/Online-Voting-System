@@ -1,5 +1,3 @@
-Here’s a clean and professional **README.md** you can directly use on GitHub 👇
-
 ---
 
 #  Online Voting System (CLI)
