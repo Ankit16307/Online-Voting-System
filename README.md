@@ -11,6 +11,7 @@ This project allows users to register, login, and vote securely, while providing
 
 * User Registration & Login
 * Secure Voting (One vote per user)
+* Basic AI fraud detection
 * Admin Panel for management
 * Add / Remove Candidates
 * Reset Individual or All Votes
@@ -26,6 +27,15 @@ This project allows users to register, login, and vote securely, while providing
 * File Handling (.txt files)
 * CLI (Command Line Interface)
 
+---
+
+## AI / Smart features
+
+This system includes basic AI fraud detetction mechanism to enhance data security.
+### What it detects -
+* Multiple rapid login attempts
+* Suspicious voting spikes
+* Unusual user behaviour pattern
 ---
 
 ##  File Structure
@@ -122,6 +132,7 @@ Password: admin123
 * Add GUI (Tkinter / Web App)
 * Use database (MySQL / MongoDB)
 * Implement password hashing
+* Intergrate real AI/Ml fraud detection
 * Add user session management
 * Deploy as a web-based application
 
